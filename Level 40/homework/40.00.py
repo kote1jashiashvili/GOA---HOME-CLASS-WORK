@@ -1,0 +1,3 @@
+list_of_num1_num_iafinite = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+for i in range(3):
+    print(list_of_num1_num_iafinite[0] + list_of_num1_num_iafinite[1] + list_of_num1_num_iafinite[2] + list_of_num1_num_iafinite[3] + list_of_num1_num_iafinite[4] + list_of_num1_num_iafinite[5] + list_of_num1_num_iafinite[6] + list_of_num1_num_iafinite[7] + list_of_num1_num_iafinite[8] + list_of_num1_num_iafinite[9]) 

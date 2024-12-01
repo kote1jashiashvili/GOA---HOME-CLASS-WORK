@@ -1,1 +1,1 @@
-#nothing here, we got codewars lesson
+#no classwork, we was learning
